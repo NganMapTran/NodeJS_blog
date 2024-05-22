@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NganMapTran/NodeJS_blog.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "NganDoan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NganMapTran/NodeJS_blog/issues"
+  },
+  "homepage": "https://github.com/NganMapTran/NodeJS_blog#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
